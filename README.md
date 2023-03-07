@@ -1,4 +1,4 @@
-![Molecule Test](https://github.com/bwinfosec/ansible-role-add-epel/actions/workflows/molecule-test.yml/badge.svg)
+[![Molecule Test](https://github.com/bwInfoSec/ansible-role-add-epel/actions/workflows/molecule-test.yml/badge.svg)](https://github.com/bwInfoSec/ansible-role-add-epel/actions/workflows/molecule-test.yml)
 
 ansible-role-add-epel
 =========
