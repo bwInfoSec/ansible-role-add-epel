@@ -9,6 +9,12 @@ This role adds the [EPEL](https://www.redhat.com/en/blog/whats-epel-and-how-do-i
 
 - RHEL 8
 
+## Install
+
+``` sh
+ansible-galaxy install bwinfosec.add_epel
+```
+
 ## Example Playbook
 
 ```yml
