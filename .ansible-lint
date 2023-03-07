@@ -1,0 +1,16 @@
+---
+exclude_paths:
+  - .cache/
+  - .github/
+  - inventory.yml
+  - ${HOME}/.ansible/
+  - .pre-commit-config.yaml
+  - molecule/default
+  - "**/files"
+  - "**/molecule/*"
+  - .yamllint
+  - .gitlab-ci.yml
+
+warn_list:
+  - ignore-errors
+  - experimental

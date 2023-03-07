@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: Stefan Machmeier
+  description: "This role configures the EPEL repository on Centos 8 or RHEL 8.4"
+  license: EUPL1.2
+  role_name: add_epel
+  namespace: bwinfosec
+
+  min_ansible_version: "2.8"
+
+  platforms:
+    - name: EL
+      versions:
+        - "8"
+
+  galaxy_tags:
+    - rhel
+    - rhel_8
+    - epel
+
+dependencies: []
