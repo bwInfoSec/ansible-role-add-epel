@@ -20,7 +20,7 @@ ansible-galaxy install bwinfosec.add_epel
 ```yml
     - hosts: rhel
       roles:
-         - { role: bwinfosec.add_epel }
+         - bwinfosec.add_epel
 ```
 
 ## Local Development
