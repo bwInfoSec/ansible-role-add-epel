@@ -15,7 +15,8 @@ galaxy_info:
 
   galaxy_tags:
     - rhel
-    - rhel_8
+    - rhel8
     - epel
+    - remote
 
 dependencies: []
