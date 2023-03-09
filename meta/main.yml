@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Stefan Machmeier
-  description: "This role configures the EPEL repository on Centos 8 or RHEL 8.4"
+  description: "This role configures the EPEL repository on Centos 8 or RHEL 8."
   license: EUPL1.2
   role_name: add_epel
   namespace: bwinfosec
